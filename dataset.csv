@@ -1,0 +1,4 @@
+Duration,Protocol_Type,Service,Src_Bytes,Dst_Bytes,Wrong_Fragment,Urgent,Hot,Num_Failed_Logins,Attack
+2,1,2,232,8153,0,0,0,0,1
+1,0,1,120,5450,0,0,0,0,0
+5,2,3,600,10000,1,0,1,2,1
